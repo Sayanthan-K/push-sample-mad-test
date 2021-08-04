@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "324296695683",
+    "firebase_url": "https://sayanthan-ce872.firebaseio.com",
+    "project_id": "sayanthan-ce872",
+    "storage_bucket": "sayanthan-ce872.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324296695683:android:3c8197b62a8968d5ef60b6",
+        "android_client_info": {
+          "package_name": "com.example.lab1first"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324296695683-92oaj3fcsllpk69s6rifc38lqc6d56qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPgTOozAkKbBhvdMGw5JwGVj_Dc5nwyZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324296695683-92oaj3fcsllpk69s6rifc38lqc6d56qq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
